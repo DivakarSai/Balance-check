@@ -6,8 +6,9 @@ Download all the files and open index.html in your browser
 
 Features
 
--add/delete/edit epenses
+-add/delete/edit expenses
 
+add expenses
 
 ![image](https://user-images.githubusercontent.com/94692045/190848188-424d11a6-2b55-4179-9148-2a892d514000.png)
 ![image](https://user-images.githubusercontent.com/94692045/190848225-54d605d3-3583-4e2d-8ccc-e661724afb28.png)
